@@ -8,7 +8,7 @@
 
 body {
     height: 100vh;
-    background: #625E77 center / cover url("/images/bg.jpg") no-repeat fixed
+    background: #625E77 center / cover url("/images/bg.jpg") no-repeat fixed;
 }
 
 header {
